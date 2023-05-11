@@ -1,2 +1,1 @@
-# android_device_realme_apollob
-Device tree for Realme 8 5G (apollob)
+https://www.gsmarena.com/realme_8_5g-pictures-10846.php
